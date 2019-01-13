@@ -34,7 +34,7 @@ Getting started:
 4. Run either the Broadcast Sender or the Multicast Sender or both the program will stay open and continue to send messages until you press CTRL + C
 5. Run either Broadcast Reciever or Multicast Reciever or both to get the sent message. 
 
-Note: The message sent for Broadcast and Multicast are different and one of them contains a secret message about something that's happening in my near distant future, can you figure out what it is? ;-)
+Note: The message sent for Broadcast and Multicast are different.
 
 Error Logging:
 Any errors that occur will output to the console and also to a log file, the log file is created in the root project directory and will be named programname_error.log, the programname is the name of the program that you

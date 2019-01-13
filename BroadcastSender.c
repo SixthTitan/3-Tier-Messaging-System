@@ -104,5 +104,5 @@ void Config(char ipaddress[10], u_int16_t portnum, char *message) {
 int main(int argc, char *argv[])
 {
     /// Run a Broadcast with the specified arguments ///
-    Config("localhost", 6060, "I will be going to Mountain View CA, \n to go work at Google in March 2020!!");
+    Config("localhost", 6060, "Mocha is the best!");
 }
